@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/desktop.png)
-![](./screenshot/mobile.png)
+<img src="/screenshot/screenshot-desktop.png" width="80%" alt="desktop-screenshot">
+<img src="/screenshot/screenshot-mobile.png" width="300" alt="mobile-screenshot">
 
 ### Links
 
